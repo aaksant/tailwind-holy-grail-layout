@@ -1,3 +1,3 @@
 # Responsive Holy Grail Layout
 
-My first Tailwind CSS project.
+My first Tailwind CSS project. 
